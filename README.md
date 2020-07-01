@@ -15,4 +15,6 @@ You can select one of 4 bots to race against:
   2. Right Wall Follower - self explanatory
   3. Backtracer - utilizes backtracing: making random decisions at junctions then tracing its steps back if it reaches a dead end
   4. "Impossible" - already knows the correct path out and is very fast
+  
+  
 The maze is generated with a depth-first algorithm that utilizes backtracing implemented with an explicit stack.
